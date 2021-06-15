@@ -1,0 +1,14 @@
+one/innovation/digital/OrdenaCaracteres.java
+ one.innovation.digital.OrdenaCaracteres
+one/innovation/digital/DefinePalavra.java
+ one.innovation.digital.DefinePalavra
+one/innovation/digital/OrdenaFrase.java
+ one.innovation.digital.OrdenaFrase
+one/digital/MaiorSub.java
+ one.digital.MaiorSub
+one/digital/ValidaSenha.java
+ one.digital.ValidaSenha
+one/digital/PagaAlmoco.java
+ one.digital.PagaAlmoco
+one/digital/AtalhosWeblogger.java
+ one.digital.AtalhosWeblogger
